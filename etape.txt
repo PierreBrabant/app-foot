@@ -1,0 +1,13 @@
+etape 1
+Recuperer les données en json de l'api fff
+    1-Comprendre l'api (trouver les bons parametres)
+    2-Reussir à faire les requettes http pour obtenir les données sur postman et ensuite sur le projet directement
+etape 2
+Afficher les données sur le coté utilisateur
+    1-Recuperer les infos dont j'ai besoins (lieu, niveau, nom des clubs, heure de la rencontre, dates de la rencontre)
+    2-Afficher correctement les informations
+etape 3
+Permettre à l'utilisateur de choisir la region, le niveau et le perimetre de recherche
+    1-Faire un filtre coté utilisateur(Niveau, regions,departement,clubs,dates et heure)
+    2-Entré la recherche de l'user dans une requettes http pour récuperer les informations
+    3-Affiché les resultats
